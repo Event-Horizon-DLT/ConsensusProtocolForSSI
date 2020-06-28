@@ -1,4 +1,4 @@
-##Introduction (SECTION I: SUMMARY)
+# Introduction (SECTION I: SUMMARY)
 
 Personal data aggregation and mining is a Trillion dollar industry, proving the value of analysing human behaviour through digital evidence.
 As often, a phenomena of this amplitude inherently carries a part of light and a part of shadow: while it provides a formidable basis for scientific investigation, in psychology, economics, sociology, etc. it also offers mean for manipulation, disinformation and allows to violate privacy and limit freedom.
